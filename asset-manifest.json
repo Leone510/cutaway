@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/spa-cutaway/static/css/main.147ab673.chunk.css",
-    "main.js": "/spa-cutaway/static/js/main.de5a3fb7.chunk.js",
-    "main.js.map": "/spa-cutaway/static/js/main.de5a3fb7.chunk.js.map",
-    "runtime-main.js": "/spa-cutaway/static/js/runtime-main.0d16cb28.js",
-    "runtime-main.js.map": "/spa-cutaway/static/js/runtime-main.0d16cb28.js.map",
-    "static/js/2.cc752e97.chunk.js": "/spa-cutaway/static/js/2.cc752e97.chunk.js",
-    "static/js/2.cc752e97.chunk.js.map": "/spa-cutaway/static/js/2.cc752e97.chunk.js.map",
-    "index.html": "/spa-cutaway/index.html",
-    "static/css/main.147ab673.chunk.css.map": "/spa-cutaway/static/css/main.147ab673.chunk.css.map",
-    "static/js/2.cc752e97.chunk.js.LICENSE.txt": "/spa-cutaway/static/js/2.cc752e97.chunk.js.LICENSE.txt"
+    "main.css": "/cutaway/static/css/main.43e1c9e1.css",
+    "main.js": "/cutaway/static/js/main.9c4405c9.js",
+    "index.html": "/cutaway/index.html",
+    "main.43e1c9e1.css.map": "/cutaway/static/css/main.43e1c9e1.css.map",
+    "main.9c4405c9.js.map": "/cutaway/static/js/main.9c4405c9.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d16cb28.js",
-    "static/js/2.cc752e97.chunk.js",
-    "static/css/main.147ab673.chunk.css",
-    "static/js/main.de5a3fb7.chunk.js"
+    "static/css/main.43e1c9e1.css",
+    "static/js/main.9c4405c9.js"
   ]
 }
