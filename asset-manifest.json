@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cutaway/static/css/main.43e1c9e1.css",
+    "main.js": "/cutaway/static/js/main.7f027783.js",
+    "index.html": "/cutaway/index.html",
+    "main.43e1c9e1.css.map": "/cutaway/static/css/main.43e1c9e1.css.map",
+    "main.7f027783.js.map": "/cutaway/static/js/main.7f027783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e1c9e1.css",
+    "static/js/main.7f027783.js"
+  ]
+}
