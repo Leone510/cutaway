@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cutaway/static/css/main.43e1c9e1.css",
-    "main.js": "/cutaway/static/js/main.9c4405c9.js",
+    "main.js": "/cutaway/static/js/main.55db4e1f.js",
     "index.html": "/cutaway/index.html",
     "main.43e1c9e1.css.map": "/cutaway/static/css/main.43e1c9e1.css.map",
-    "main.9c4405c9.js.map": "/cutaway/static/js/main.9c4405c9.js.map"
+    "main.55db4e1f.js.map": "/cutaway/static/js/main.55db4e1f.js.map"
   },
   "entrypoints": [
     "static/css/main.43e1c9e1.css",
-    "static/js/main.9c4405c9.js"
+    "static/js/main.55db4e1f.js"
   ]
 }
