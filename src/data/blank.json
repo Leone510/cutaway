@@ -8,7 +8,8 @@
          "name": "Forecast",
          "background" : "url(https://photoshop-kopona.com/uploads/posts/2018-02/1518872696_colorful-background-9.jpg)",
          "img": "url(https://raw.githubusercontent.com/Leone510/spa-cutaway/main/public/img/cutawayPreview.jpg)",
-         "page": "/forecast"
+         "page": "/forecast",
+         "href": "https://leone510.github.io/forecust/"
       },
       {
          "name": "work2",
