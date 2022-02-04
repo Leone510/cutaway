@@ -24,7 +24,7 @@ export const HeaderCutaway = (props) => {
 
                <Logo>
                   <LogoImg>
-                     <StyledImage src={props.person.photo} alt="avatar" />
+                     <StyledImage src={process.env.PUBLIC_URL + '/img/logo-cutaway.png'} alt="logotype" />
                   </LogoImg>
 
                   <Title color={"#5b5643"}>
