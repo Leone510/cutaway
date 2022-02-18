@@ -11,7 +11,7 @@ export const Navigation = ({works}) => {
       <StyledNavigation active={menuActive}>
          {works.map((work, index) => {
             return (
-               <MenuItem onClick={()=>scrollToWork(index)} key={work.name} index={index}>
+               <MenuItem onClick={()=>scrollToWork(work.name)} key={work.name} index={index}>
                   {work.name}
                </MenuItem>
             )

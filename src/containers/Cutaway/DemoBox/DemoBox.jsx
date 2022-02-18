@@ -9,7 +9,7 @@ export const DemoBox = ({settings, works}) => {
       <div>
          {works.map(item => {
             return (
-               <ContentContainer bottom background={item.background} bgFit="cover" key={item.img}>
+               <ContentContainer id={item.name} bottom background={item.background} bgFit="cover" key={item.img}>
                   <ContentWrapper {...settings}>
                      <DemoSlide>
                         <DemoCard {...item}/>

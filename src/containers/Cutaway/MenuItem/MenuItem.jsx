@@ -1,11 +1,9 @@
-import { useScroller } from '../../../custom/useScroller';
 import { StyledMenuItem } from './StiledMenuItem';
 
-export const MenuItem = ({children, index}) => {
-   const {scrollToWork} = useScroller();
+export const MenuItem = ({children, ...props}) => {
 
    return (
-      <StyledMenuItem onClick={() => scrollToWork(index)}>
+      <StyledMenuItem {...props}>
          <h4>{children}</h4>
       </StyledMenuItem>
    )
