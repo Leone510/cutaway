@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cutaway/static/css/main.43e1c9e1.css",
-    "main.js": "/cutaway/static/js/main.93806495.js",
+    "main.css": "/cutaway/static/css/main.546af6d9.css",
+    "main.js": "/cutaway/static/js/main.de75ce07.js",
     "index.html": "/cutaway/index.html",
-    "main.43e1c9e1.css.map": "/cutaway/static/css/main.43e1c9e1.css.map",
-    "main.93806495.js.map": "/cutaway/static/js/main.93806495.js.map"
+    "main.546af6d9.css.map": "/cutaway/static/css/main.546af6d9.css.map",
+    "main.de75ce07.js.map": "/cutaway/static/js/main.de75ce07.js.map"
   },
   "entrypoints": [
-    "static/css/main.43e1c9e1.css",
-    "static/js/main.93806495.js"
+    "static/css/main.546af6d9.css",
+    "static/js/main.de75ce07.js"
   ]
 }
